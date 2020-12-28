@@ -1,4 +1,4 @@
-<img src = "CAT-vs-DOG-Classification/Images_notebook/dog vs cat.PNG">  
+<img src = "CAT-vs-DOG-Classification/Images_notebook/dog_vs_cat.PNG">  
   
 # CAT-vs-DOG-Classification
   
